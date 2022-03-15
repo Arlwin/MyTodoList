@@ -1,0 +1,29 @@
+{
+  "name": "mytodolist",
+  "version": "1.0.0",
+  "description": "simple todo list using html/js with sass",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arlwin/MyTodoList.git"
+  },
+  "author": "Arlwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arlwin/MyTodoList/issues"
+  },
+  "homepage": "https://github.com/Arlwin/MyTodoList#readme",
+  "devDependencies": {
+    "css-loader": "^6.7.1",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
